@@ -1,4 +1,4 @@
-<img width="100%" alt="FuminaYoshimura" src="https://user-images.githubusercontent.com/55824449/124337699-cbef6180-db58-11eb-856d-7ad685806202.png">
+<img width="100%" alt="FuminaYoshimura" src="#">
 
 <p align="center">A front-end developer who loves building creative websites and applications that make life easier. A hard worker who combines a passion for web development with expertise in web design. Have developed several websites and applications using HTML, CSS, Sass, JavaScript, React, TypeScript and Python.</p>
 
@@ -28,7 +28,7 @@
 <br>
 
 <div align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ayumitanaka13&show_icons=true&theme=calm&locale=en" alt="ayumitanaka13" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=237ganbaru365&show_icons=true&theme=calm&locale=en" alt="237ganbaru365" />
 
 <p>Links</p>
 
