@@ -1,6 +1,6 @@
 <img width="100%" alt="FuminaYoshimura" src="https://user-images.githubusercontent.com/63833511/170840685-6ffaf845-d722-4a12-a2e1-4280d888ec07.png">
 
-<p align="center">A front-end developer who loves building creative websites and applications that make life easier. A hard worker who combines a passion for web development with expertise in web design. Have developed several websites and applications using HTML, CSS, Sass, JavaScript, React, TypeScript and Python.</p>
+<p align="center">A front-end developer who has a strength in communication and a passion for creating services and products that enrich people's lives.　🤩&nbsp; Fun fact: I'm beer freak.🍺</p>
 
 <br>
 
