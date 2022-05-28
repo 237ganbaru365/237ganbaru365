@@ -28,7 +28,7 @@
 <br>
 
 <div align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=237ganbaru365&show_icons=true&theme=calm&locale=en" alt="237ganbaru365" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=237ganbaru365&show_icons=true&theme=merko&locale=en" alt="237ganbaru365" />
 
 <p>Links</p>
 
