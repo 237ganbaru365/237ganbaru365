@@ -31,7 +31,7 @@
 
 <p>Links</p>
 
-👨‍💻&nbsp;All of my projects are available at<br>[https://yoshimurafumina.vercel.app/](https://yoshimurafumina.vercel.app/)<br>
+👨‍💻&nbsp;All of my projects are available at<br>[https://fuminayoshimura.vercel.app/](https://fuminayoshimura.vercel.app/)<br>
 📫&nbsp;How to reach me<br>**fuminayoshimura2@gmail.com**<br>
 📄&nbsp;Know about my experiences<br>[https://www.linkedin.com/in/fumina-yoshimura-38ab81210/](https://www.linkedin.com/in/fumina-yoshimura-38ab81210/)
 
