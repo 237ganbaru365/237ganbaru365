@@ -3,7 +3,7 @@
 <p align="center">A front-end developer who has a strength in communication and a passion for creating services and products that enrich people's lives.　🤩&nbsp; Fun fact: I'm beer freak.🍺</p>
 
 
-<p align="center">Languages and Tools</p>
+<p>Languages and Tools</p>
 
 <p align="center">
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
