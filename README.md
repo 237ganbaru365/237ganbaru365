@@ -1,5 +1,3 @@
-<img width="100%" alt="FuminaYoshimura" src="https://user-images.githubusercontent.com/63833511/178328129-d1ea8ef9-3303-4cd1-97b6-75c989c9aed5.png">
-
 <p align="center">A front-end developer who has a strength in communication and a passion for creating services and products that enrich people's lives.　🤩&nbsp; Fun fact: I'm beer freak.🍺</p>
 
 
